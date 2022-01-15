@@ -1,2 +1,2 @@
-# -C-skeleton
+# C-skeleton
 C skeleton
