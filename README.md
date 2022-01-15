@@ -1,0 +1,2 @@
+# -C-skeleton
+C skeleton
